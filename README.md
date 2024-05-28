@@ -5,6 +5,9 @@ Repository for projects worked on with the earthquake geology group
 ## hyp3_mintpy_workflow.ipynb
 ASF Hyp3 and Mintpy workflow for velocity time series
 
+## optimize_convert2Dx_Dy_Dz.py
+Convert Sentinel-1 radar data into Dx, Dy, Dz
+
 # West U.S. fault area polygon project:
 ## QFaults_faultArea_v3.py:
 ### Quaternary Fault and Fold Database:
